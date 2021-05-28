@@ -1,0 +1,26 @@
+
+.nospace li .news{
+    text-decoration:underline;
+}
+
+.gallery-image {
+    padding: 10px;
+}
+
+/* Slick JS CSS*/
+
+.slick-prev:before,
+.slick-next:before {
+    font-family:initial!important;
+    background-color:rgb(1,26,49); 
+    color: red;
+}
+
+.slick-slide {
+    height:200px;
+}
+ 
+ .slick-slide img {
+    height:200px;
+    width: 300px;
+ }
